@@ -1,11 +1,11 @@
 # Site settings
-author: Chris L
-title: 
+author: Christopher Lee
+title: Blog 1
 header-img: img/home-bg.png
 email: c.lee8912@icloud.com
-copyright_name: Chris L
+copyright_name: Christopher Lee
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Blog 1 Test
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  clee8912
